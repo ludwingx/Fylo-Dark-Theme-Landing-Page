@@ -52,3 +52,7 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+<<<<<<< HEAD
+=======
+# Fylo-Dark-Theme-Landing-Page
+>>>>>>> 35d367298fd1c6839645a26b12fcba220c68dce9
